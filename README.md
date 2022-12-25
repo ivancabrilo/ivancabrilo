@@ -3,7 +3,7 @@
 
 
 
-- 🔭 IProgrammer with a focus on Python projects.
+- 🔭 Programmer with a focus on Python projects.
 - 🌱 I am currently learning about artificial intelligence and machine learning,  
 - 👯 I am always looking to collaborate on new projects in these areas.
 - 🤔 I’m looking for help with Deep Learning
